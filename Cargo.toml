@@ -1,0 +1,12 @@
+[package]
+name = "goodreads-to-book-mode"
+version = "0.1.0"
+authors = ["Danielle Lancashire <dani@tomlinson.io>"]
+edition = "2018"
+
+[dependencies]
+serde = "1.0"
+serde_derive = "1.0"
+serde-xml-rs = "0.3"
+reqwest = "0.9.15"
+chrono = { version = "0.4", features = ["serde"] }

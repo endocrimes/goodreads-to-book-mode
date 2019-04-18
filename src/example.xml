@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+  </Request>
+  <reviews start="1" end="20" total="65">
+    <review>
+      <id>2649705306</id>
+      <book>
+        <id type="integer">25899336</id>
+        <isbn nil="true"/>
+        <isbn13 nil="true"/>
+        <text_reviews_count type="integer">17131</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.K6zgZM89f5hOHEyxILUTUQ</uri>
+        <title>When Breath Becomes Air</title>
+        <title_without_series>When Breath Becomes Air</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1492677644m/25899336.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1492677644s/25899336.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/25899336-when-breath-becomes-air</link>
+        <num_pages></num_pages>
+        <format></format>
+        <edition_information/>
+        <publisher></publisher>
+        <publication_day></publication_day>
+        <publication_year></publication_year>
+        <publication_month></publication_month>
+        <average_rating>4.35</average_rating>
+        <ratings_count>298873</ratings_count>
+        <description>For readers of Atul Gawande, Andrew Solomon, and Anne Lamott, a profoundly moving, exquisitely observed memoir by a young neurosurgeon faced with a terminal cancer diagnosis who attempts to answer the question What makes a life worth living?&lt;br /&gt;&lt;br /&gt;At the age of thirty-six, on the verge of completing a decade's worth of training as a neurosurgeon, Paul Kalanithi was diagnosed with stage IV lung cancer. One day he was a doctor treating the dying, and the next he was a patient struggling to live. And just like that, the future he and his wife had imagined evaporated. When Breath Becomes Air chronicles Kalanithi's transformation from a naïve medical student "possessed," as he wrote, "by the question of what, given that all organisms die, makes a virtuous and meaningful life" into a neurosurgeon at Stanford working in the brain, the most critical place for human identity, and finally into a patient and new father confronting his own mortality. &lt;br /&gt;&lt;br /&gt;What makes life worth living in the face of death? What do you do when the future, no longer a ladder toward your goals in life, flattens out into a perpetual present? What does it mean to have a child, to nurture a new life as another fades away? These are some of the questions Kalanithi wrestles with in this profoundly moving, exquisitely observed memoir. &lt;br /&gt;&lt;br /&gt;Paul Kalanithi died in March 2015, while working on this book, yet his words live on as a guide and a gift to us all. "I began to realize that coming face to face with my own mortality, in a sense, had changed nothing and everything," he wrote. "Seven words from Samuel Beckett began to repeat in my head: 'I can't go on. I'll go on.'" When Breath Becomes Air is an unforgettable, life-affirming reflection on the challenge of facing death and on the relationship between doctor and patient, from a brilliant writer who became both.</description>
+        <authors>
+          <author>
+            <id>14031444</id>
+            <name>Paul Kalanithi</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1456068631p5/14031444.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1456068631p2/14031444.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/14031444.Paul_Kalanithi]]></link>
+            <average_rating>4.35</average_rating>
+            <ratings_count>298909</ratings_count>
+            <text_reviews_count>25966</text_reviews_count>
+          </author>
+        </authors>
+        <published></published>
+        <work>  <id>45424659</id>
+          <uri>kca://work/amzn1.gr.work.v1.oip55amienPK71A-wDcRGg</uri>
+      </work></book>
+
+
+      <rating>5</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at>Tue Jan 01 07:30:42 -0800 2019</started_at>
+      <read_at>Tue Jan 01 07:30:46 -0800 2019</read_at>
+      <date_added>Tue Jan 01 07:29:01 -0800 2019</date_added>
+      <date_updated>Tue Jan 01 07:30:46 -0800 2019</date_updated>
+      <read_count>2</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/2649705306]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/2649705306]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>2639500164</id>
+      <book>
+        <id type="integer">605663</id>
+        <isbn>1580051545</isbn>
+        <isbn13>9781580051545</isbn13>
+        <text_reviews_count type="integer">407</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.3gWjB-XnmFafHPbMGO91cQ</uri>
+        <title>Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity</title>
+        <title_without_series>Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1328853725m/605663.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1328853725s/605663.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/605663.Whipping_Girl</link>
+        <num_pages>390</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Seal Press</publisher>
+        <publication_day>14</publication_day>
+        <publication_year>2007</publication_year>
+        <publication_month>5</publication_month>
+        <average_rating>4.21</average_rating>
+        <ratings_count>5338</ratings_count>
+        <description>In the updated second edition of &lt;i&gt;Whipping Girl&lt;/i&gt;, Julia Serano, a transsexual woman whose supremely intelligent writing reflects her diverse background as a lesbian transgender activist and professional biologist, shares her powerful experiences and observation-both pre- and post-transition-to reveal the ways in which fear, suspicion and dismissiveness toward femininity shape our societal attitudes toward trans women, as well as gender and sexuality as a whole.&lt;br /&gt;Serano's well-honed arguments stem from her ability to bridge the gap between the often-disparate biological and social perspectives on gender. In this provocative manifesto, she exposes how deep-rooted the cultural belief is that femininity is frivolous, weak, and passive, and how this "feminine" weakness exists only to attract and appease male desire.&lt;br /&gt;In addition to debunking popular misconceptions about transsexuality, Serano makes the case that today's feminists and transgender activists must work to embrace and empower femininity-in all of its wondrous forms.</description>
+        <authors>
+          <author>
+            <id>328504</id>
+            <name>Julia Serano</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1385405844p5/328504.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1385405844p2/328504.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/328504.Julia_Serano]]></link>
+            <average_rating>4.18</average_rating>
+            <ratings_count>6772</ratings_count>
+            <text_reviews_count>620</text_reviews_count>
+          </author>
+        </authors>
+        <published>2007</published>
+        <work>  <id>592211</id>
+          <uri>kca://work/amzn1.gr.work.v1.td1Kc9xMqfIVNN5SjUzZ1Q</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+
+        <shelf exclusive='true' id='212249187' name='currently-reading' review_shelf_id='2284636689' sortable='false'></shelf>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at>Wed Dec 26 08:49:24 -0800 2018</started_at>
+      <read_at></read_at>
+      <date_added>Wed Dec 26 08:49:23 -0800 2018</date_added>
+      <date_updated>Wed Dec 26 08:49:24 -0800 2018</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/2639500164]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/2639500164]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>2639475724</id>
+      <book>
+        <id type="integer">6442769</id>
+        <isbn>014241493X</isbn>
+        <isbn13>9780142414934</isbn13>
+        <text_reviews_count type="integer">30929</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.r7IoBe8aC-UJak7lmvbG3g</uri>
+        <title>Paper Towns</title>
+        <title_without_series>Paper Towns</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1349013610m/6442769.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1349013610s/6442769.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/6442769-paper-towns</link>
+        <num_pages>305</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Speak</publisher>
+        <publication_day>22</publication_day>
+        <publication_year>2009</publication_year>
+        <publication_month>9</publication_month>
+        <average_rating>3.84</average_rating>
+        <ratings_count>769103</ratings_count>
+        <description>&lt;b&gt;Who is the real Margo?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs into his life—dressed like a ninja and summoning him for an ingenious campaign of revenge—he follows. After their all-nighter ends, and a new day breaks, Q arrives at school to discover that Margo, always an enigma, has now become a mystery. But Q soon learns that there are clues—and they're for him. Urged down a disconnected path, the closer he gets, the less Q sees the girl he thought he knew...</description>
+        <authors>
+          <author>
+            <id>1406384</id>
+            <name>John Green</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+            <average_rating>4.07</average_rating>
+            <ratings_count>5783143</ratings_count>
+            <text_reviews_count>327104</text_reviews_count>
+          </author>
+        </authors>
+        <published>2009</published>
+        <work>  <id>3364505</id>
+          <uri>kca://work/amzn1.gr.work.v1.G0gpF-u15R0EcPh2l_uVKw</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Wed Dec 26 08:29:20 -0800 2018</date_added>
+      <date_updated>Wed Dec 26 08:29:21 -0800 2018</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/2639475724]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/2639475724]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>2639474956</id>
+      <book>
+        <id type="integer">18283207</id>
+        <isbn>1846275083</isbn>
+        <isbn13>9781846275081</isbn13>
+        <text_reviews_count type="integer">437</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.jQ2VTFGxd1pWR3jNbNl_jw</uri>
+        <title>Strange Weather in Tokyo</title>
+        <title_without_series>Strange Weather in Tokyo</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1375634096m/18283207.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1375634096s/18283207.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/18283207-strange-weather-in-tokyo</link>
+        <num_pages>176</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Portobello Books</publisher>
+        <publication_day>1</publication_day>
+        <publication_year>2013</publication_year>
+        <publication_month>8</publication_month>
+        <average_rating>3.76</average_rating>
+        <ratings_count>9571</ratings_count>
+        <description>Tsukiko is drinking alone in her local sake bar when by chance she meets one of her old high school teachers and, unable to remember his name, she falls back into her old habit of calling him 'Sensei'. After this first encounter, Tsukiko and Sensei continue to meet. Together, they share edamame beans, bottles of cold beer, and a trip to the mountains to eat wild mushrooms. As their friendship deepens, Tsukiko comes to realise that the solace she has found with Sensei might be something more.</description>
+        <authors>
+          <author>
+            <id>637929</id>
+            <name>Hiromi Kawakami</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1403601895p5/637929.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1403601895p2/637929.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/637929.Hiromi_Kawakami]]></link>
+            <average_rating>3.64</average_rating>
+            <ratings_count>17157</ratings_count>
+            <text_reviews_count>2278</text_reviews_count>
+          </author>
+        </authors>
+        <published>2013</published>
+        <work>  <id>2974590</id>
+          <uri>kca://work/amzn1.gr.work.v1.jaGtVHkMoJwkuglUBDST4g</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Wed Dec 26 08:28:41 -0800 2018</date_added>
+      <date_updated>Wed Dec 26 08:28:42 -0800 2018</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/2639474956]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/2639474956]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>2636963075</id>
+      <book>
+        <id type="integer">22050397</id>
+        <isbn>1627290052</isbn>
+        <isbn13>9781627290050</isbn13>
+        <text_reviews_count type="integer">105</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.K-hTbsQECZJ6uGH-ovFt_Q</uri>
+        <title>A Safe Girl to Love</title>
+        <title_without_series>A Safe Girl to Love</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1399495379m/22050397.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1399495379s/22050397.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/22050397-a-safe-girl-to-love</link>
+        <num_pages>229</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Topside Press</publisher>
+        <publication_day/>
+        <publication_year>2014</publication_year>
+        <publication_month>5</publication_month>
+        <average_rating>4.24</average_rating>
+        <ratings_count>756</ratings_count>
+        <description>Eleven unique short stories that stretch from a rural Canadian Mennonite town to a hipster gay bar in Brooklyn, featuring young trans women stumbling through loss, sex, harassment, and love.&lt;br /&gt;&lt;br /&gt;These stories, shiny with whiskey and prairie sunsets, rattling subways and neglected cats, show growing up as a trans girl can be charming, funny, frustrating, or sad, but never will it be predictable.</description>
+        <authors>
+          <author>
+            <id>7257712</id>
+            <name>Casey Plett</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1513545172p5/7257712.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1513545172p2/7257712.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/7257712.Casey_Plett]]></link>
+            <average_rating>4.19</average_rating>
+            <ratings_count>1682</ratings_count>
+            <text_reviews_count>288</text_reviews_count>
+          </author>
+        </authors>
+        <published>2014</published>
+        <work>  <id>41376847</id>
+          <uri>kca://work/amzn1.gr.work.v1.gEaqkZxa75_c498A_SpRKg</uri>
+      </work></book>
+
+
+      <rating>5</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Mon Dec 24 08:06:37 -0800 2018</date_added>
+      <date_updated>Wed Dec 26 08:36:21 -0800 2018</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/2636963075]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/2636963075]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>2636962995</id>
+      <book>
+        <id type="integer">26156987</id>
+        <isbn>1250078407</isbn>
+        <isbn13>9781250078407</isbn13>
+        <text_reviews_count type="integer">2975</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.YBeJocAEQoN6EmY93WpcXQ</uri>
+        <title>If I Was Your Girl</title>
+        <title_without_series>If I Was Your Girl</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1462088577m/26156987.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1462088577s/26156987.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/26156987-if-i-was-your-girl</link>
+        <num_pages>280</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Flatiron Books</publisher>
+        <publication_day>3</publication_day>
+        <publication_year>2016</publication_year>
+        <publication_month>5</publication_month>
+        <average_rating>4.00</average_rating>
+        <ratings_count>22894</ratings_count>
+        <description>A new kind of big-hearted novel about being seen for who you really are.&lt;br /&gt;&lt;br /&gt;Amanda Hardy is the new girl in school. Like anyone else, all she wants is to make friends and fit in. But Amanda is keeping a secret, and she's determined not to get too close to anyone. &lt;br /&gt;&lt;br /&gt;But when she meets sweet, easygoing Grant, Amanda can't help but start to let him into her life. As they spend more time together, she realizes just how much she is losing by guarding her heart. She finds herself yearning to share with Grant everything about herself, including her past. But Amanda's terrified that once she tells him the truth, he won't be able to see past it. &lt;br /&gt;&lt;br /&gt;Because the secret that Amanda's been keeping? It's that at her old school, she used to be Andrew. Will the truth cost Amanda her new life, and her new love? &lt;br /&gt;&lt;br /&gt;Meredith Russo's If I Was Your Girl is a universal story about feeling different and a love story that everyone will root for.</description>
+        <authors>
+          <author>
+            <id>10963089</id>
+            <name>Meredith Russo</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1461009502p5/10963089.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1461009502p2/10963089.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10963089.Meredith_Russo]]></link>
+            <average_rating>3.92</average_rating>
+            <ratings_count>30943</ratings_count>
+            <text_reviews_count>5952</text_reviews_count>
+          </author>
+        </authors>
+        <published>2016</published>
+        <work>  <id>43552369</id>
+          <uri>kca://work/amzn1.gr.work.v1.QhKdb8-CFLBi0DOUZiuJfg</uri>
+      </work></book>
+
+
+      <rating>3</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Mon Dec 24 08:06:31 -0800 2018</date_added>
+      <date_updated>Wed Dec 26 08:39:32 -0800 2018</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/2636962995]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/2636962995]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1925774596</id>
+      <book>
+        <id type="integer">6892870</id>
+        <isbn>030726999X</isbn>
+        <isbn13>9780307269997</isbn13>
+        <text_reviews_count type="integer">20609</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.zl0CscjBsbW_a3JRZR_mdQ</uri>
+        <title>The Girl Who Kicked the Hornet's Nest (Millennium, #3)</title>
+        <title_without_series>The Girl Who Kicked the Hornet's Nest</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1327708260m/6892870.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1327708260s/6892870.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/6892870-the-girl-who-kicked-the-hornet-s-nest</link>
+        <num_pages>563</num_pages>
+        <format>Hardcover</format>
+        <edition_information>Borzoi (US)</edition_information>
+        <publisher>Knopf</publisher>
+        <publication_day>23</publication_day>
+        <publication_year>2010</publication_year>
+        <publication_month>5</publication_month>
+        <average_rating>4.22</average_rating>
+        <ratings_count>586487</ratings_count>
+        <description>The stunning third and final novel in Stieg Larsson's internationally best-selling trilogy.&lt;br /&gt;&lt;br /&gt;Lisbeth Salander - the heart of Larsson's two previous novels - lies in critical condition, a bullet wound to her head, in the intensive care unit of a Swedish city hospital. She's fighting for her life in more ways than one: if and when she recovers, she'll be taken back to Stockholm to stand trial for three murders. With the help of her friend, journalist Mikael Blomkvist, she will not only have to prove her innocence, but also identify and denounce those in authority who have allowed the vulnerable, like herself, to suffer abuse and violence. And, on her own, she will plot revenge - against the man who tried to kill her, and the corrupt government institutions that very nearly destroyed her life.&lt;br /&gt;&lt;br /&gt;Once upon a time, she was a victim. Now Salander is fighting back.&lt;br /&gt;&lt;br /&gt;~from the jacket</description>
+        <authors>
+          <author>
+            <id>706255</id>
+            <name>Stieg Larsson</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1246466225p5/706255.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1246466225p2/706255.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/706255.Stieg_Larsson]]></link>
+            <average_rating>4.15</average_rating>
+            <ratings_count>3781978</ratings_count>
+            <text_reviews_count>143826</text_reviews_count>
+          </author>
+        </authors>
+        <published>2010</published>
+        <work>  <id>12883496</id>
+          <uri>kca://work/amzn1.gr.work.v1.TTY3mfGKl9xA2gSABBMnPA</uri>
+      </work></book>
+
+
+      <rating>4</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at>Mon Feb 27 08:18:52 -0800 2017</started_at>
+      <read_at>Tue Aug 29 22:13:44 -0700 2017</read_at>
+      <date_added>Sun Feb 26 14:53:35 -0800 2017</date_added>
+      <date_updated>Tue Aug 29 22:13:45 -0700 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1925774596]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1925774596]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920786422</id>
+      <book>
+        <id type="integer">5470</id>
+        <isbn nil="true"/>
+        <isbn13 nil="true"/>
+        <text_reviews_count type="integer">42384</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.nqUog6xQ4LAPVhvC1rgNmg</uri>
+        <title>1984</title>
+        <title_without_series>1984</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1348990566m/5470.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1348990566s/5470.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/5470.1984</link>
+        <num_pages>326</num_pages>
+        <format>Mass Market Paperback</format>
+        <edition_information>Signet Classics</edition_information>
+        <publisher>New American Library</publisher>
+        <publication_day>1</publication_day>
+        <publication_year>1950</publication_year>
+        <publication_month>7</publication_month>
+        <average_rating>4.17</average_rating>
+        <ratings_count>2555995</ratings_count>
+        <description>The year 1984 has come and gone, but George Orwell's prophetic, nightmarish vision in 1949 of the world we were becoming is timelier than ever. &lt;i&gt;1984&lt;/i&gt; is still the great modern classic of "negative utopia"—a startlingly original and haunting novel that creates an imaginary world that is completely convincing, from the first sentence to the last four words. No one can deny the novel's hold on the imaginations of whole generations, or the power of its admonitions—a power that seems to grow, not lessen, with the passage of time.</description>
+        <authors>
+          <author>
+            <id>3706</id>
+            <name>George Orwell</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+            <average_rating>4.05</average_rating>
+            <ratings_count>5224703</ratings_count>
+            <text_reviews_count>117012</text_reviews_count>
+          </author>
+        </authors>
+        <published>1950</published>
+        <work>  <id>153313</id>
+          <uri>kca://work/amzn1.gr.work.v1.SgJQSc4-cyFNY1JLB6R9mA</uri>
+      </work></book>
+
+
+      <rating>4</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 14:47:08 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 14:47:13 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920786422]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920786422]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920785160</id>
+      <book>
+        <id type="integer">5060378</id>
+        <isbn>0307269981</isbn>
+        <isbn13>9780307269980</isbn13>
+        <text_reviews_count type="integer">25625</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.8xBlo8yOrbvliwJaH5-Pfg</uri>
+        <title>The Girl Who Played with Fire (Millennium, #2)</title>
+        <title_without_series>The Girl Who Played with Fire</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1351778881m/5060378.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1351778881s/5060378.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/5060378-the-girl-who-played-with-fire</link>
+        <num_pages>503</num_pages>
+        <format>Hardcover</format>
+        <edition_information>First US Edition</edition_information>
+        <publisher>Alfred A. Knopf</publisher>
+        <publication_day>28</publication_day>
+        <publication_year>2009</publication_year>
+        <publication_month>7</publication_month>
+        <average_rating>4.23</average_rating>
+        <ratings_count>739119</ratings_count>
+        <description>Part blistering espionage thriller, part riveting police procedural, and part piercing exposé on social injustice, &lt;i&gt;The Girl Who Played with Fire&lt;/i&gt; is a masterful, endlessly satisfying novel. &lt;br /&gt; &lt;br /&gt;Mikael Blomkvist, crusading publisher of the magazine &lt;i&gt;Millennium&lt;/i&gt;, has decided to run a story that will expose an extensive sex trafficking operation. On the eve of its publication, the two reporters responsible for the article are murdered, and the fingerprints found on the murder weapon belong to his friend, the troubled genius hacker Lisbeth Salander. Blomkvist, convinced of Salander’s innocence, plunges into an investigation. Meanwhile, Salander herself is drawn into a murderous game of cat and mouse, which forces her to face her dark past.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;From the Trade Paperback edition.&lt;/i&gt;</description>
+        <authors>
+          <author>
+            <id>706255</id>
+            <name>Stieg Larsson</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1246466225p5/706255.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1246466225p2/706255.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/706255.Stieg_Larsson]]></link>
+            <average_rating>4.15</average_rating>
+            <ratings_count>3781978</ratings_count>
+            <text_reviews_count>143826</text_reviews_count>
+          </author>
+        </authors>
+        <published>2009</published>
+        <work>  <id>6976108</id>
+          <uri>kca://work/amzn1.gr.work.v1.cUqcr7CL0D9wOrmWnKe0Ng</uri>
+      </work></book>
+
+
+      <rating>4</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at>Tue Feb 21 14:45:49 -0800 2017</started_at>
+      <read_at>Sun Feb 26 14:16:38 -0800 2017</read_at>
+      <date_added>Tue Feb 21 14:45:48 -0800 2017</date_added>
+      <date_updated>Sun Feb 26 14:16:38 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920785160]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920785160]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920780868</id>
+      <book>
+        <id type="integer">12661444</id>
+        <isbn>1594932832</isbn>
+        <isbn13>9781594932830</isbn13>
+        <text_reviews_count type="integer">103</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.7CXBkJTutM_3LjBZ5dHpOg</uri>
+        <title>Being Emily</title>
+        <title_without_series>Being Emily</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1338422796m/12661444.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1338422796s/12661444.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/12661444-being-emily</link>
+        <num_pages>264</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Bella Books</publisher>
+        <publication_day>26</publication_day>
+        <publication_year>2012</publication_year>
+        <publication_month>6</publication_month>
+        <average_rating>3.96</average_rating>
+        <ratings_count>673</ratings_count>
+        <description>They say that whoever you are it’s okay, you were born that way. Those words don’t comfort Emily, because she was born Christopher and her insides know that her outsides are all wrong.&lt;br /&gt;&lt;br /&gt;They say that it gets better, be who are you and it’ll be fine. For Emily, telling her parents who she really is means a therapist who insists Christopher is normal and Emily is sick. Telling her girlfriend means lectures about how God doesn’t make that kind of mistake.&lt;br /&gt;&lt;br /&gt;Emily desperately wants high school in her small Minnesota town to get better. She wants to be the woman she knows is inside, but it’s not until a substitute therapist and a girl named Natalie come into her life that she believes she has a chance of actually Being Emily.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;A story for anyone who has ever felt that the inside and outside don’t match and no one else will understand...&lt;/i&gt;</description>
+        <authors>
+          <author>
+            <id>5217274</id>
+            <name>Rachel Gold</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1508893514p5/5217274.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1508893514p2/5217274.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/5217274.Rachel_Gold]]></link>
+            <average_rating>3.94</average_rating>
+            <ratings_count>1105</ratings_count>
+            <text_reviews_count>202</text_reviews_count>
+          </author>
+        </authors>
+        <published>2012</published>
+        <work>  <id>17775809</id>
+          <uri>kca://work/amzn1.gr.work.v1.L-6u1J9TDHru2vBlL-SjDg</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 14:41:17 -0800 2017</date_added>
+      <date_updated>Mon Dec 24 08:06:23 -0800 2018</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920780868]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920780868]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920746341</id>
+      <book>
+        <id type="integer">7664041</id>
+        <isbn>0375856110</isbn>
+        <isbn13>9780375856112</isbn13>
+        <text_reviews_count type="integer">8518</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.Avt9DBpAsX_fKpnZTtnpKg</uri>
+        <title>Inheritance (The Inheritance Cycle, #4)</title>
+        <title_without_series>Inheritance</title_without_series>
+        <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+        <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/7664041-inheritance</link>
+        <num_pages>849</num_pages>
+        <format>Hardcover</format>
+        <edition_information>First Edition</edition_information>
+        <publisher>Alfred A. Knopf</publisher>
+        <publication_day>8</publication_day>
+        <publication_year>2011</publication_year>
+        <publication_month>11</publication_month>
+        <average_rating>4.10</average_rating>
+        <ratings_count>186907</ratings_count>
+        <description>It began with &lt;i&gt;Eragon&lt;/i&gt;... It ends with &lt;i&gt;Inheritance&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Not so very long ago, Eragon — Shadeslayer, Dragon Rider — was nothing more than a poor farm boy, and his dragon, Saphira, only a blue stone in the forest. Now the fate of an entire civilization rests on their shoulders.&lt;br /&gt;&lt;br /&gt;Long months of training and battle have brought victories and hope, but they have also brought heartbreaking loss. And still, the real battle lies ahead: they must confront Galbatorix. When they do, they will have to be strong enough to defeat him. And if &lt;i&gt;they&lt;/i&gt; cannot, no one can. There will be no second chance.&lt;br /&gt;&lt;br /&gt;The Rider and his dragon have come further than anyone dared to hope. But can they topple the evil king and restore justice to Alagaësia? And if so, at what cost?&lt;br /&gt;&lt;br /&gt;This is the spellbinding conclusion to Christopher Paolini's worldwide bestselling Inheritance cycle.&lt;br /&gt;&lt;br /&gt;</description>
+        <authors>
+          <author>
+            <id>8349</id>
+            <name>Christopher Paolini</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1412963950p5/8349.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1412963950p2/8349.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/8349.Christopher_Paolini]]></link>
+            <average_rating>3.95</average_rating>
+            <ratings_count>2102601</ratings_count>
+            <text_reviews_count>49614</text_reviews_count>
+          </author>
+        </authors>
+        <published>2011</published>
+        <work>  <id>10260587</id>
+          <uri>kca://work/amzn1.gr.work.v1.KbTKI2JEM9OQnYypjQkdzQ</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 14:04:58 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 14:04:59 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920746341]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920746341]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920745162</id>
+      <book>
+        <id type="integer">2248573</id>
+        <isbn>0375826726</isbn>
+        <isbn13>9780375826726</isbn13>
+        <text_reviews_count type="integer">7772</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.GPRT1JAWZku0TLxL_WZCXA</uri>
+        <title>Brisingr (The Inheritance Cycle, #3)</title>
+        <title_without_series>Brisingr</title_without_series>
+        <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+        <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/2248573.Brisingr</link>
+        <num_pages>748</num_pages>
+        <format>Hardcover</format>
+        <edition_information>First Edition</edition_information>
+        <publisher>Alfred A. Knopf</publisher>
+        <publication_day>20</publication_day>
+        <publication_year>2008</publication_year>
+        <publication_month>9</publication_month>
+        <average_rating>4.05</average_rating>
+        <ratings_count>257839</ratings_count>
+        <description>Oaths sworn... loyalties tested... forces collide.&lt;br /&gt;&lt;br /&gt;It's been only months since Eragon first uttered "brisingr", an ancient language term for fire. Since then, he's not only learned to create magic with words — he's been challenged to his very core. Following the colossal battle against the Empires warriors on the Burning Plains, Eragon and his dragon, Saphira, have narrowly escaped with their lives. Still, there is more adventure at hand for the Rider and his dragon, as Eragon finds himself bound by a tangle of promises he may not be able to keep.&lt;br /&gt;&lt;br /&gt;First is Eragon's oath to his cousin, Roran: to help rescue Roran's beloved from King Galbatorix's clutches. But Eragon owes his loyalty to others, too. The Varden are in desperate need of his talents and strength — as are the elves and dwarves. When unrest claims the rebels and danger strikes from every corner, Eragon must make choices — choices that will take him across the Empire and beyond, choices that may lead to unimagined sacrifice.&lt;br /&gt;&lt;br /&gt;Eragon is the greatest hope to rid the land of tyranny. Can this once simple farm boy unite the rebel forces and defeat the king?&lt;br /&gt;&lt;br /&gt;</description>
+        <authors>
+          <author>
+            <id>8349</id>
+            <name>Christopher Paolini</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1412963950p5/8349.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1412963950p2/8349.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/8349.Christopher_Paolini]]></link>
+            <average_rating>3.95</average_rating>
+            <ratings_count>2102601</ratings_count>
+            <text_reviews_count>49614</text_reviews_count>
+          </author>
+        </authors>
+        <published>2008</published>
+        <work>  <id>3124969</id>
+          <uri>kca://work/amzn1.gr.work.v1.rAHSr3mOlPTaAvbBkVvAtA</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 14:03:42 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 14:03:43 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920745162]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920745162]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920744921</id>
+      <book>
+        <id type="integer">45978</id>
+        <isbn>0375840400</isbn>
+        <isbn13>9780375840401</isbn13>
+        <text_reviews_count type="integer">7648</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.iH-EkxHAqnWL-CofyulsPw</uri>
+        <title>Eldest (The Inheritance Cycle, #2)</title>
+        <title_without_series>Eldest</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1387119654m/45978.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1387119654s/45978.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/45978.Eldest</link>
+        <num_pages>704</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Knopf Books for Young Readers</publisher>
+        <publication_day>13</publication_day>
+        <publication_year>2007</publication_year>
+        <publication_month>3</publication_month>
+        <average_rating>3.98</average_rating>
+        <ratings_count>307172</ratings_count>
+        <description>Darkness falls…despair abounds…evil reigns…Eragon and his dragon, Saphira, have just saved the rebel state from destruction by the mighty forces of King Galbatorix, cruel ruler of the Empire. Now Eragon must travel to Ellesmera, land of the elves, for further training in the skills of the Dragon Rider. Ages 12+.&lt;br /&gt;&lt;br /&gt;Darkness falls…despair abounds…evil reigns…&lt;br /&gt;&lt;br /&gt;Eragon and his dragon, Saphira, have just saved the rebel state from destruction by the mighty forces of King Galbatorix, cruel ruler of the Empire. Now Eragon must travel to Ellesmera, land of the elves, for further training in the skills of the Dragon Rider: magic and swordsmanship. Soon he is on the journey of a lifetime, his eyes open to awe-inspring new places and people, his days filled with fresh adventure. But chaos and betrayal plague him at every turn, and nothing is what it seems. Before long, Eragon doesn't know whom he can trust.&lt;br /&gt;&lt;br /&gt;Meanwhile, his cousin Roran must fight a new battle–one that might put Eragon in even graver danger.&lt;br /&gt;&lt;br /&gt;Will the king's dark hand strangle all resistance? Eragon may not escape with even his life. . . .</description>
+        <authors>
+          <author>
+            <id>8349</id>
+            <name>Christopher Paolini</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1412963950p5/8349.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1412963950p2/8349.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/8349.Christopher_Paolini]]></link>
+            <average_rating>3.95</average_rating>
+            <ratings_count>2102601</ratings_count>
+            <text_reviews_count>49614</text_reviews_count>
+          </author>
+        </authors>
+        <published>2007</published>
+        <work>  <id>2035753</id>
+          <uri>kca://work/amzn1.gr.work.v1.lMeG3ojtvFyPgA-rV98Hvg</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 14:03:28 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 14:03:29 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920744921]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920744921]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920735367</id>
+      <book>
+        <id type="integer">112247</id>
+        <isbn>0201896834</isbn>
+        <isbn13>9780201896831</isbn13>
+        <text_reviews_count type="integer">40</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.N8KFqxLNGv6gGs3kGs5kxA</uri>
+        <title>The Art of Computer Programming, Volume 1: Fundamental Algorithms</title>
+        <title_without_series>The Art of Computer Programming, Volume 1: Fundamental Algorithms</title_without_series>
+        <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+        <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1</link>
+        <num_pages>672</num_pages>
+        <format>Hardcover</format>
+        <edition_information>Third Edition</edition_information>
+        <publisher>Addison-Wesley</publisher>
+        <publication_day>17</publication_day>
+        <publication_year>1997</publication_year>
+        <publication_month>7</publication_month>
+        <average_rating>4.36</average_rating>
+        <ratings_count>1620</ratings_count>
+        <description>The first revision of this third volume is the most comprehensivesurvey of classical computer techniques for sorting and searching. It extends thetreatment of data structures in Volume 1 to consider both large and smalldatabases and internal and external memories. The book contains a selection ofcarefully checked computer methods, with a quantitative analysis of theirefficiency. Outstanding features of the second edition include a revised sectionon optimum sorting and new discussions of the theory of permutations and ofuniversal hashing.</description>
+        <authors>
+          <author>
+            <id>64941</id>
+            <name>Donald Ervin Knuth</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1236845611p5/64941.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1236845611p2/64941.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/64941.Donald_Ervin_Knuth]]></link>
+            <average_rating>4.33</average_rating>
+            <ratings_count>6529</ratings_count>
+            <text_reviews_count>227</text_reviews_count>
+          </author>
+        </authors>
+        <published>1997</published>
+        <work>  <id>108080</id>
+          <uri>kca://work/amzn1.gr.work.v1.-NEscIqrn_3a_4Tu7imjSw</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 13:53:37 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 13:53:38 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920735367]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920735367]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920734930</id>
+      <book>
+        <id type="integer">18652002</id>
+        <isbn>0062331159</isbn>
+        <isbn13>9780062331151</isbn13>
+        <text_reviews_count type="integer">3383</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.osCW_KfWc6_H2Di1jRj3LQ</uri>
+        <title>The Bees</title>
+        <title_without_series>The Bees</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1384018069m/18652002.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1384018069s/18652002.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/18652002-the-bees</link>
+        <num_pages>340</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Ecco</publisher>
+        <publication_day>6</publication_day>
+        <publication_year>2014</publication_year>
+        <publication_month>5</publication_month>
+        <average_rating>3.69</average_rating>
+        <ratings_count>27050</ratings_count>
+        <description>&lt;i&gt;The Handmaid's Tale&lt;/i&gt; meets &lt;i&gt;The Hunger Games&lt;/i&gt; in this brilliantly imagined debut. &lt;br /&gt;&lt;br /&gt;Born into the lowest class of her society, Flora 717 is a sanitation bee, only fit to clean her orchard hive. Living to accept, obey and serve, she is prepared to sacrifice everything for her beloved holy mother, the Queen. Yet Flora has talents that are not typical of her kin. And while mutant bees are usually instantly destroyed, Flora is reassigned to feed the newborns, before becoming a forager, collecting pollen on the wing. Then she finds her way into the Queen's inner sanctum, where she discovers secrets both sublime and ominous. Enemies roam everywhere, from the fearsome fertility police to the high priestesses who jealously guard the Hive Mind. But Flora cannot help but break the most sacred law of all, and her instinct to serve is overshadowed by a desire, as overwhelming as it is forbidden...&lt;br /&gt;&lt;br /&gt;Laline Paull's chilling yet ultimately triumphant novel creates a luminous world both alien and uncannily familiar. Thrilling and imaginative, &lt;i&gt;The Bees&lt;/i&gt; is the story of a heroine who changes her destiny and her world.</description>
+        <authors>
+          <author>
+            <id>7307477</id>
+            <name>Laline Paull</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1398389169p5/7307477.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1398389169p2/7307477.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/7307477.Laline_Paull]]></link>
+            <average_rating>3.69</average_rating>
+            <ratings_count>27594</ratings_count>
+            <text_reviews_count>4592</text_reviews_count>
+          </author>
+        </authors>
+        <published>2014</published>
+        <work>  <id>26457997</id>
+          <uri>kca://work/amzn1.gr.work.v1.w61CQkjHMs33OMNBnqn5Lw</uri>
+      </work></book>
+
+
+      <rating>3</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 13:53:11 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 13:53:15 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920734930]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920734930]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920734694</id>
+      <book>
+        <id type="integer">1</id>
+        <isbn>0439785960</isbn>
+        <isbn13>9780439785969</isbn13>
+        <text_reviews_count type="integer">26014</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.L9KPn9NQyHxsNneS-mDWAg</uri>
+        <title>Harry Potter and the Half-Blood Prince (Harry Potter, #6)</title>
+        <title_without_series>Harry Potter and the Half-Blood Prince</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1361039191m/1.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1361039191s/1.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince</link>
+        <num_pages>652</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Scholastic Inc.</publisher>
+        <publication_day>16</publication_day>
+        <publication_year>2006</publication_year>
+        <publication_month>9</publication_month>
+        <average_rating>4.56</average_rating>
+        <ratings_count>2074983</ratings_count>
+        <description>When Harry Potter and the Half-Blood Prince opens, the war against Voldemort has begun. The Wizarding world has split down the middle, and as the casualties mount, the effects even spill over onto the Muggles. Dumbledore is away from Hogwarts for long periods, and the Order of the Phoenix has suffered grievous losses. And yet, as in all wars, life goes on.&lt;br /&gt;&lt;br /&gt;Harry, Ron, and Hermione, having passed their O.W.L. level exams, start on their specialist N.E.W.T. courses. Sixth-year students learn to Apparate, losing a few eyebrows in the process. Teenagers flirt and fight and fall in love. Harry becomes captain of the Gryffindor Quidditch team, while Draco Malfoy pursues his own dark ends. And classes are as fascinating and confounding as ever, as Harry receives some extraordinary help in Potions from the mysterious Half-Blood Prince.&lt;br /&gt;&lt;br /&gt;Most importantly, Dumbledore and Harry work together to uncover the full and complex story of a boy once named Tom Riddle—the boy who became Lord Voldemort. Like Harry, he was the son of one Muggle-born and one Wizarding parent, raised unloved, and a speaker of Parseltongue. But the similarities end there, as the teenaged Riddle became deeply interested in the Dark objects known as Horcruxes: objects in which a wizard can hide part of his soul, if he dares splinter that soul through murder.&lt;br /&gt;&lt;br /&gt;Harry must use all the tools at his disposal to draw a final secret out of one of Riddle’s teachers, the sly Potions professor Horace Slughorn. Finally Harry and Dumbledore hold the key to the Dark Lord’s weaknesses... until a shocking reversal exposes Dumbledore’s own vulnerabilities, and casts Harry’s—and Hogwarts’s—future in shadow.&lt;br /&gt;&lt;br /&gt;Source: &lt;a target="_blank" href="http://harrypotter.scholastic.com" rel="nofollow"&gt;http://harrypotter.scholastic.com&lt;/a&gt;</description>
+        <authors>
+          <author>
+            <id>1077326</id>
+            <name>J.K. Rowling</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+            <average_rating>4.45</average_rating>
+            <ratings_count>21608432</ratings_count>
+            <text_reviews_count>528814</text_reviews_count>
+          </author>
+        </authors>
+        <published>2006</published>
+        <work>  <id>41335427</id>
+          <uri>kca://work/amzn1.gr.work.v1.txipecnIYua0HbI4GhIAkA</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 13:52:55 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 13:52:55 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920734694]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920734694]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920734573</id>
+      <book>
+        <id type="integer">2</id>
+        <isbn>0439358078</isbn>
+        <isbn13>9780439358071</isbn13>
+        <text_reviews_count type="integer">27350</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.uGB1cTbG_Dm5BpjL_i7pqw</uri>
+        <title>Harry Potter and the Order of the Phoenix (Harry Potter, #5)</title>
+        <title_without_series>Harry Potter and the Order of the Phoenix</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1546910265m/2.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1546910265s/2.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix</link>
+        <num_pages>870</num_pages>
+        <format>Paperback</format>
+        <edition_information>US Edition</edition_information>
+        <publisher>Scholastic Inc.</publisher>
+        <publication_day>1</publication_day>
+        <publication_year>2004</publication_year>
+        <publication_month>9</publication_month>
+        <average_rating>4.49</average_rating>
+        <ratings_count>2126898</ratings_count>
+        <description>There is a door at the end of a silent corridor. And it’s haunting Harry Pottter’s dreams. Why else would he be waking in the middle of the night, screaming in terror?&lt;br /&gt;&lt;br /&gt;Harry has a lot on his mind for this, his fifth year at Hogwarts: a Defense Against the Dark Arts teacher with a personality like poisoned honey; a big surprise on the Gryffindor Quidditch team; and the looming terror of the Ordinary Wizarding Level exams. But all these things pale next to the growing threat of He-Who-Must-Not-Be-Named---a threat that neither the magical government nor the authorities at Hogwarts can stop.&lt;br /&gt;&lt;br /&gt;As the grasp of darkness tightens, Harry must discover the true depth and strength of his friends, the importance of boundless loyalty, and the shocking price of unbearable sacrifice.&lt;br /&gt;&lt;br /&gt;His fate depends on them all.</description>
+        <authors>
+          <author>
+            <id>1077326</id>
+            <name>J.K. Rowling</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+            <average_rating>4.45</average_rating>
+            <ratings_count>21608432</ratings_count>
+            <text_reviews_count>528814</text_reviews_count>
+          </author>
+        </authors>
+        <published>2004</published>
+        <work>  <id>2809203</id>
+          <uri>kca://work/amzn1.gr.work.v1.QBlq2dw4tPMZSuXhlMeXww</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 13:52:47 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 13:52:48 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920734573]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920734573]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920734275</id>
+      <book>
+        <id type="integer">6</id>
+        <isbn nil="true"/>
+        <isbn13 nil="true"/>
+        <text_reviews_count type="integer">29348</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.Qtinlqa0DGyf_iLtfFVrCQ</uri>
+        <title>Harry Potter and the Goblet of Fire (Harry Potter, #4)</title>
+        <title_without_series>Harry Potter and the Goblet of Fire</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1554006152m/6.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1554006152s/6.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire</link>
+        <num_pages>734</num_pages>
+        <format>Paperback</format>
+        <edition_information>First Scholastic Trade Paperback Edition</edition_information>
+        <publisher>Scholastic</publisher>
+        <publication_day>28</publication_day>
+        <publication_year>2002</publication_year>
+        <publication_month>9</publication_month>
+        <average_rating>4.55</average_rating>
+        <ratings_count>2172993</ratings_count>
+        <description>Harry Potter is midway through his training as a wizard and his coming of age. Harry wants to get away from the pernicious Dursleys and go to the International Quidditch Cup. He wants to find out about the mysterious event that's supposed to take place at Hogwarts this year, an event involving two other rival schools of magic, and a competition that hasn't happened for a hundred years. He wants to be a normal, fourteen-year-old wizard. But unfortunately for Harry Potter, he's not normal - even by wizarding standards. And in his case, different can be deadly. --back cover</description>
+        <authors>
+          <author>
+            <id>1077326</id>
+            <name>J.K. Rowling</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+            <average_rating>4.45</average_rating>
+            <ratings_count>21608432</ratings_count>
+            <text_reviews_count>528814</text_reviews_count>
+          </author>
+        </authors>
+        <published>2002</published>
+        <work>  <id>3046572</id>
+          <uri>kca://work/amzn1.gr.work.v1.USb5ObBtcLXUuC3i9aoelA</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 13:52:31 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 13:52:31 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920734275]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920734275]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920734166</id>
+      <book>
+        <id type="integer">136251</id>
+        <isbn>0545010225</isbn>
+        <isbn13>9780545010221</isbn13>
+        <text_reviews_count type="integer">49764</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.J45EZhldLHRv1GBWdMc7Uw</uri>
+        <title>Harry Potter and the Deathly Hallows (Harry Potter, #7)</title>
+        <title_without_series>Harry Potter and the Deathly Hallows</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1474171184m/136251.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1474171184s/136251.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows</link>
+        <num_pages>759</num_pages>
+        <format>Hardcover</format>
+        <edition_information>First American Edition</edition_information>
+        <publisher>Arthur A. Levine Books / Scholastic Inc.</publisher>
+        <publication_day>21</publication_day>
+        <publication_year>2007</publication_year>
+        <publication_month>7</publication_month>
+        <average_rating>4.63</average_rating>
+        <ratings_count>2217096</ratings_count>
+        <description>Harry Potter is leaving Privet Drive for the last time. But as he climbs into the sidecar of Hagrid’s motorbike and they take to the skies, he knows Lord Voldemort and the Death Eaters will not be far behind.&lt;br /&gt;&lt;br /&gt;The protective charm that has kept him safe until now is broken. But the Dark Lord is breathing fear into everything he loves. And he knows he can’t keep hiding.&lt;br /&gt;&lt;br /&gt;To stop Voldemort, Harry knows he must find the remaining Horcruxes and destroy them.&lt;br /&gt;&lt;br /&gt;He will have to face his enemy in one final battle.&lt;br /&gt;--jkrowling.com</description>
+        <authors>
+          <author>
+            <id>1077326</id>
+            <name>J.K. Rowling</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+            <average_rating>4.45</average_rating>
+            <ratings_count>21608432</ratings_count>
+            <text_reviews_count>528814</text_reviews_count>
+          </author>
+        </authors>
+        <published>2007</published>
+        <work>  <id>2963218</id>
+          <uri>kca://work/amzn1.gr.work.v1.Adr1zpcHTPWrbOovOdZhlA</uri>
+      </work></book>
+
+
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+
+
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+
+      </shelves>
+
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 13:52:23 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 13:52:24 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+
+
+
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920734166]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920734166]]></link>
+      <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1920734022</id>
+      <book>
+        <id type="integer">15881</id>
+        <isbn>0439064864</isbn>
+        <isbn13>9780439064866</isbn13>
+        <text_reviews_count type="integer">32251</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.KlY-hIN06yK2_7Y8_mQVig</uri>
+        <title>Harry Potter and the Chamber of Secrets (Harry Potter, #2)</title>
+        <title_without_series>Harry Potter and the Chamber of Secrets</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1474169725m/15881.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1474169725s/15881.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets</link>
+        <num_pages>341</num_pages>
+        <format>Hardcover</format>
+        <edition_information>First American Edition</edition_information>
+        <publisher>Arthur A. Levine Books / Scholastic Inc.</publisher>
+        <publication_day>2</publication_day>
+        <publication_year>1999</publication_year>
+        <publication_month>6</publication_month>
+        <average_rating>4.41</average_rating>
+        <ratings_count>2273427</ratings_count>
+        <description>The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike&lt;br /&gt;&lt;br /&gt;And strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockhart, a spirit named Moaning Myrtle who haunts the girls' bathroom, and the unwanted attentions of Ron Weasley's younger sister, Ginny.&lt;br /&gt;&lt;br /&gt;But each of these seem minor annoyances when the real trouble begins, and someone -- or something -- starts turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possibly be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects . . . Harry Potter himself?&lt;br /&gt;&lt;br /&gt;--jacket description</description>
+        <authors>
+          <author>
+            <id>1077326</id>
+            <name>J.K. Rowling</name>
+            <role></role>
+            <image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+            </image_url>
+            <small_image_url nophoto='false'>
+              <![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+            <average_rating>4.45</average_rating>
+            <ratings_count>21608432</ratings_count>
+            <text_reviews_count>528814</text_reviews_count>
+          </author>
+        </authors>
+        <published>1999</published>
+        <work>  <id>6231171</id>
+          <uri>kca://work/amzn1.gr.work.v1.PjwTgn-_w5b0mY40RgNxdw</uri>
+      </work></book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+        <shelf name="read" exclusive="true" id="212249188" review_shelf_id= ""/>
+      </shelves>
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Tue Feb 21 13:52:15 -0800 2017</date_added>
+      <date_updated>Tue Feb 21 13:52:15 -0800 2017</date_updated>
+      <read_count>1</read_count>
+      <body>
+      </body>
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1920734022]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1920734022]]></link>
+      <owned>0</owned>
+    </review>
+  </reviews>
+</GoodreadsResponse>
