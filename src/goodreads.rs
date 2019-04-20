@@ -1,6 +1,7 @@
 use reqwest;
 use serde_xml_rs::from_str;
 
+
 #[derive(Debug, PartialEq, Deserialize)]
 pub struct ReviewListResponse {
     pub reviews: ReviewList,
@@ -51,6 +52,7 @@ fn decode_reviews() {
     let response = r#"<reviews start="1" end="20" total="65">
             <review>
                 <id>2649705306</id>
+                <date_added>2018</date_added>
                 <book>
                     <id>1</id>
                     <title>Test</title>
@@ -64,6 +66,7 @@ fn decode_reviews() {
         end: 20,
         reviews: vec![BookReview {
             id: 2649705306,
+            date_added: "2018".into(),
             book: Book {
                 id: 1,
                 isbn: None,
@@ -82,6 +85,7 @@ fn decode_full_response() {
         <reviews start="1" end="20" total="65">
             <review>
                 <id>2649705306</id>
+                <date_added>2018</date_added>
                 <book>
                     <id>1</id>
                     <isbn>123141</isbn>
@@ -98,6 +102,7 @@ fn decode_full_response() {
             end: 20,
             reviews: vec![BookReview {
                 id: 2649705306,
+                date_added: "2018".into(),
                 book: Book {
                     id: 1,
                     isbn: Some("123141".into()),

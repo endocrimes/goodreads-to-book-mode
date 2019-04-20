@@ -28,15 +28,19 @@ impl std::fmt::Display for Book {
         fmt.write_str("\t\t\t\t")?;
         fmt.write_str(self.time.as_str())?;
         if let Some(isbn) = self.isbn.clone() {
-            fmt.write_str("\nisbn: ".into())?;
-            fmt.write_str(isbn.as_str())?;
+            if isbn != "" {
+                fmt.write_str("\nisbn: ".into())?;
+                fmt.write_str(isbn.as_str())?;
+            }
         }
         Ok(())
     }
 }
 
 fn main() {
-    let response = goodreads::fetch_review_list("your-user-id".into(), "your-api-token".into());
+    let userid = std::env::var("USER_ID").expect("Missing env var `USER_ID`");
+    let token = std::env::var("GOODREADS_TOKEN").expect("Missing env var `GOODREADS_TOKEN`");
+    let response = goodreads::fetch_review_list(userid, token);
     response
         .reviews
         .reviews
